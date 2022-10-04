@@ -9,4 +9,4 @@
     * Please setup odoo on local machine including database as well on local. Refer to this article https://www.odoo.com/documentation/15.0/administration/install/install.html
     * Create a new module having all the required modifications. Refer to this article https://www.odoo.com/documentation/15.0/developer/howtos/backend.html
     * Please try to use internet as much as you can to find solutions for all the problems that you encounter during the process. If no solution found and stuck then ping us.
-    * At the time of submission, please create a working copy of module code and commit to a repository and send to the link of repo. Please keep repo private.
+    * At the time of submission, please create a working copy of module code and commit to a repository and send the link of repo and allow access to concerned. Please keep repo private.
